@@ -1,2 +1,0 @@
-# dataviz
-data visualization projects
